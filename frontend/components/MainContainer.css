@@ -1,0 +1,10 @@
+.main-container__orderform-element {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 1rem;
+    border: solid 1px #c7c9d3;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 0.5em;
+}

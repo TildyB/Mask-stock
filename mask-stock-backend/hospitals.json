@@ -1,0 +1,472 @@
+[
+    {
+        "id": 1770169966,
+        "name": "Fővárosi Önkormányzat Heim Pál Gyermekkórház",
+        "address": {
+            "country_code": "HU",
+            "post_code": "1131",
+            "city": "Budapest",
+            "address": "Gyöngyösi utca 29"
+        },
+        "emails": [
+            "foig@heimpalkorhaz.hu"
+        ],
+        "taxcode": "55555",
+        "iban": "HU59109180014778952459873553",
+        "swift": "UBRTHUHB",
+        "account_number": "81936513",
+        "phone": "061 210 0711",
+        "general_ledger_number": "123",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "UE",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170046,
+        "name": "Helios Hospital Berlin-Buch",
+        "address": {
+            "country_code": "DE",
+            "post_code": "13125",
+            "city": "Berlin",
+            "address": "Schwanebecker Ch 50"
+        },
+        "emails": [
+            "berlinbuch@gmail.com"
+        ],
+        "taxcode": "88888888",
+        "iban": "DE75500105173642358157",
+        "swift": "DEUTDEFF",
+        "account_number": "39362939",
+        "phone": "+49 211 8100",
+        "general_ledger_number": "303",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "12345678",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170062,
+        "name": "Karolinska University Hospital",
+        "address": {
+            "country_code": "SE",
+            "post_code": "171 64",
+            "city": "Solna",
+            "address": "Karolinska Vägen 22"
+        },
+        "emails": [
+            "karolinska@gmail.com"
+        ],
+        "taxcode": "333",
+        "iban": "SE0466236333669378582435",
+        "swift": "SWEDSESS",
+        "account_number": "54696812",
+        "phone": "+46 8 517 700 00",
+        "general_ledger_number": "90",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "12345",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170076,
+        "name": "Ludwig Maximilian University of Munich",
+        "address": {
+            "country_code": "DE",
+            "post_code": "80539",
+            "city": "Munich",
+            "address": "Geschwister-Scholl-Platz 1,"
+        },
+        "emails": [
+            "ludwigmaximilian@gmail.com"
+        ],
+        "taxcode": "666666",
+        "iban": "DE79500105175458959535",
+        "swift": "DEUTDEFF",
+        "account_number": "39962931",
+        "phone": "+49 89 21800",
+        "general_ledger_number": "20",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "123456",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170308,
+        "name": "Markhot Ferenc Oktatókórház és Rendelőintézet",
+        "address": {
+            "country_code": "HU",
+            "post_code": "3300",
+            "city": "Eger",
+            "address": "Markhót Ferenc u. 1"
+        },
+        "emails": [
+            "titkar@mfkh.hu"
+        ],
+        "taxcode": "55555",
+        "iban": "HU74131000076152484741487325",
+        "swift": "UBRTHUHB",
+        "account_number": "78343781",
+        "phone": "36/410-313",
+        "general_ledger_number": "123",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "UE",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170086,
+        "name": "Miskolci Semmelweis Ignác Egészségügyi Központ és Egyetemi Oktatókórház",
+        "address": {
+            "country_code": "HU",
+            "post_code": "3526",
+            "city": "Miskolc",
+            "address": "Szentpéteri kapu 72"
+        },
+        "emails": [
+            "igazgato@bazmkorhaz.hu"
+        ],
+        "taxcode": "55555",
+        "iban": "HU52131000071672545126215741",
+        "swift": "COBAHUHX",
+        "account_number": "48057101",
+        "phone": "46515-200",
+        "general_ledger_number": "123",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "UE",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170105,
+        "name": "Pécsi Irgalmasrendi Kórház",
+        "address": {
+            "country_code": "HU",
+            "post_code": "7621",
+            "city": "Pécs",
+            "address": "Irgalmasok utcája 1"
+        },
+        "emails": [
+            "Pecsi@gmail.com"
+        ],
+        "taxcode": "55555",
+        "iban": "HU91107000243126984972844366",
+        "swift": "BUDAHUHB",
+        "account_number": "06471830",
+        "phone": "3672225574",
+        "general_ledger_number": "123",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "UE",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170116,
+        "name": "Rigas Austrumu Kliniskas Universitates",
+        "address": {
+            "country_code": "LV",
+            "post_code": "1038",
+            "city": "Solna",
+            "address": "Hipokrāta iela 2, Vidzemes priekšpilsēta,"
+        },
+        "emails": [
+            "rigasaustrumu@gmail.com"
+        ],
+        "taxcode": "4444",
+        "iban": "LT283872978443853288",
+        "swift": "LACBLV2",
+        "account_number": "64226139",
+        "phone": "+371 67 000 610",
+        "general_ledger_number": "101",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "123456",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170197,
+        "name": "Szent Pantaleon Kórház Kht",
+        "address": {
+            "country_code": "HU",
+            "post_code": "2400",
+            "city": "Dunaújváros",
+            "address": "Korányi Sándor utca 4-6"
+        },
+        "emails": [
+            "kommunikacio@pantaleon.hu"
+        ],
+        "taxcode": "55555",
+        "iban": "HU24107000249833621469958289",
+        "swift": "COBAHUHX",
+        "account_number": "24359149",
+        "phone": "0625550-550",
+        "general_ledger_number": "123",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "UE",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    },
+    {
+        "id": 1770170339,
+        "name": "The University Hospital Duesseldorf",
+        "address": {
+            "country_code": "DE",
+            "post_code": "40225",
+            "city": "Dusseldorf",
+            "address": "Universitätsklinikum Düsseldorf, Moorenstraße 5"
+        },
+        "emails": [
+            "universitydusseldorf@gmail.com"
+        ],
+        "taxcode": "7777777",
+        "iban": "DE88500105174211126541",
+        "swift": "DEUTDEFF",
+        "account_number": "93326391",
+        "phone": "+49 89 39900",
+        "general_ledger_number": "202",
+        "tax_type": "",
+        "custom_billing_settings": {
+            "payment_method": "aruhitel",
+            "document_form": "electronic",
+            "due_days": null,
+            "document_currency": "AED",
+            "template_language_code": "de",
+            "discount": null
+        },
+        "group_member_tax_number": "1234567",
+        "giro_settings": {
+            "giro_default_settings": true,
+            "giro_payment_request_enabled": false,
+            "giro_different_amount_allowed": false
+        },
+        "partner_shipping": {
+            "match": true,
+            "name": "",
+            "mode": "none",
+            "address": {
+                "country_code": "HU",
+                "post_code": "",
+                "city": "",
+                "address": ""
+            }
+        },
+        "internal_comment": "",
+        "partner_show_type": "show_all"
+    }
+]
